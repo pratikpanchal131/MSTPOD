@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MSTPOD_Example' do
+  pod 'MSTPOD', :path => '../'
+
+  target 'MSTPOD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
