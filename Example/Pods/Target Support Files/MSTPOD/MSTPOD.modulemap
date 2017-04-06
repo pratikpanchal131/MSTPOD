@@ -1,0 +1,6 @@
+framework module MSTPOD {
+  umbrella header "MSTPOD-umbrella.h"
+
+  export *
+  module * { export * }
+}

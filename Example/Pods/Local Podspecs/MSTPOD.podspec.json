@@ -1,0 +1,22 @@
+{
+  "name": "MSTPOD",
+  "version": "0.1.0",
+  "summary": "A short description of MSTPOD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pratikpanchal131/MSTPOD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pratikpanchal131": "pratik.panchal@indianic.com"
+  },
+  "source": {
+    "git": "https://github.com/pratikpanchal131/MSTPOD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MSTPOD/Classes/**/*"
+}
